@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "spa-zaliczenie": {
+      "hosting": {
+        "kanban-fire": [
+          "spa-zaliczenie"
+        ]
+      }
+    }
+  }
+}
